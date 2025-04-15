@@ -1,0 +1,5 @@
+Flask==2.0.3
+Werkzeug==2.0.3
+transformers==4.26.1
+torch==2.0.0
+numpy<2  # Força a instalação de uma versão do NumPy menor que 2.0
